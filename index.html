@@ -7,7 +7,7 @@
     <title>Bootstrap 101 Template</title>
 
     <!-- Bootstrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -17,9 +17,57 @@
     <![endif]-->
 </head>
 <body>
-    <div class="jumbotron">
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Fuzzy-Octo</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#download">Download</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div id="home" class="jumbotron">
         <div class="container">
-            <h1>Fuzzy-Octo Game Engine</h1>
+            <h1>Fuzzy-Octo</h1>
+            <p>A Game Engine on the JVM that doesn't suck</p>
+            <p><a class="btn btn-primary btn-lg">Learn More</a></p>
+        </div>
+    </div>
+    <div id="about" class="container">
+        <div class="well well-lg">
+            <h2>Familiar</h2>
+            <p>Fuzzy-Octo uses <a href="http://processing.org">Processing</a> to draw to the screen, a library that makes 2D and 3D graphics very simple.</p>
+        </div>
+        <div class="well well-lg">
+            <h2>Compatable</h2>
+            <p>Fuzzy-Octo is built on <a href="http://www.scala-lang.org/">Scala</a>, which means that it runs on the JVM, making it compatable with all kinds of systems.</p>
+        </div>
+        <div class="well well-lg">
+            <h2>Free</h2>
+            <p>Fuzzy-Octo is completely free. Enough said.</p>
+        </div>
+    </div>
+    <div id="download" class="container well well-lg text-center">
+        <h2>Download</h2>
+        <div class="row">
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-lg" href="https://github.com/MrabEzreb/Fuzzy-Octo-Engine">
+                    Source Code
+                </a>
+            </div>
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-lg" href="https://github.com/MrabEzreb/Fuzzy-Octo-Engine/releases/latest">
+                    Latest Release
+                </a>
+            </div>
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-lg" href="https://github.com/MrabEzreb/Fuzzy-Octo-Engine/releases/latest">
+                    Maven Release
+                </a>
+            </div>
         </div>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
