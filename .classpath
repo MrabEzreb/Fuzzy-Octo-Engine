@@ -6,6 +6,62 @@
   <classpathentry kind="src" path="src\test\java"/>
   <classpathentry kind="src" path="src\test\resources"/>
   <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.processing\core\jars\core-3.1.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt-main\jars\gluegen-rt-main-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-solaris-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-linux-armv6hf.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-android-armv6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-windows-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-linux-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-android-aarch64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-macosx-universal.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-solaris-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-windows-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-linux-armv6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.gluegen\gluegen-rt\jars\gluegen-rt-2.3.2-natives-linux-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\jogl\jars\jogl-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\jogl-all\jars\jogl-all-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt-main\jars\newt-main-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-android-aarch64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-solaris-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-bcm-vc.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-android-armv6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-linux-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-windows-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-linux-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-ogl.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-android.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-linux-armv6hf.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-event.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-osx.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-bcm-old.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-linux.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-solaris-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-win.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-windows-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-linux-armv6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-intelgdl.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-natives-macosx-universal.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-kd.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\newt\jars\newt-2.3.2-driver-x11.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow-main\jars\nativewindow-main-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-os-x11.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-os-osx.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-solaris-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-macosx-universal.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-windows-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-linux-armv6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-android-aarch64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-os-win.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-linux-armv6hf.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-linux-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-solaris-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-linux-amd64.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-windows-i586.jar"/>
+  <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.jogamp.jogl\nativewindow\jars\nativewindow-2.3.2-natives-android-armv6.jar"/>
   <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.scalatest\scalatest_2.10\bundles\scalatest_2.10-3.0.0.jar"/>
   <classpathentry kind="lib" path="C:\Users\bram.zerbe\.ivy2\cache\org.scalactic\scalactic_2.10\bundles\scalactic_2.10-3.0.0.jar"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
